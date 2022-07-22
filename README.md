@@ -1,6 +1,6 @@
 # wrangle-weratedogtwitterachive
 
-In this project, I worked with three datasets.
+In this project, I wrangled three datasets.
 
 The first dataset was provided by Udacity, it was a csv file named twitter_archive_enhanced.csv. It contains basic information about tweets and was downloaded manually.
 
